@@ -90,7 +90,7 @@ namespace Microsoft.Diagnostics.EventListeners
                 }
 
                 BulkRequest request = new BulkRequest();
-                request.Refresh = true;
+                request.Refresh = Elasticsearch.Net.Refresh.True;
 
                 List<IBulkOperation> operations = new List<IBulkOperation>();
                 foreach (EventData eventData in events)

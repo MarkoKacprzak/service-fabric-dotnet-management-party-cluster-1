@@ -7,8 +7,8 @@
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
   </PropertyGroup>
   <ItemGroup Label="ProjectConfigurations">
-    <ProjectConfiguration Include="CloudDebug|x64">
-      <Configuration>CloudDebug</Configuration>
+    <ProjectConfiguration Include="LocalDebug|x64">
+      <Configuration>LocalDebug</Configuration>
       <Platform>x64</Platform>
     </ProjectConfiguration>
     <ProjectConfiguration Include="CloudRelease|x64">

@@ -46,9 +46,9 @@ Global
 		{80E45AEF-08D3-48DE-B9C3-694A6DF2E9C4}.CloudRelease|x64.ActiveCfg = CloudRelease|x64
 		{80E45AEF-08D3-48DE-B9C3-694A6DF2E9C4}.CloudRelease|x64.Build.0 = CloudRelease|x64
 		{80E45AEF-08D3-48DE-B9C3-694A6DF2E9C4}.CloudRelease|x64.Deploy.0 = CloudRelease|x64
-		{80E45AEF-08D3-48DE-B9C3-694A6DF2E9C4}.LocalDebug|x64.ActiveCfg = CloudDebug|x64
-		{80E45AEF-08D3-48DE-B9C3-694A6DF2E9C4}.LocalDebug|x64.Build.0 = CloudDebug|x64
-		{80E45AEF-08D3-48DE-B9C3-694A6DF2E9C4}.LocalDebug|x64.Deploy.0 = CloudDebug|x64
+		{80E45AEF-08D3-48DE-B9C3-694A6DF2E9C4}.LocalDebug|x64.ActiveCfg = LocalDebug|x64
+		{80E45AEF-08D3-48DE-B9C3-694A6DF2E9C4}.LocalDebug|x64.Build.0 = LocalDebug|x64
+		{80E45AEF-08D3-48DE-B9C3-694A6DF2E9C4}.LocalDebug|x64.Deploy.0 = LocalDebug|x64
 		{9CF596CB-E0D2-493C-A6E9-42EBF481638F}.CloudRelease|x64.ActiveCfg = CloudRelease|x64
 		{9CF596CB-E0D2-493C-A6E9-42EBF481638F}.CloudRelease|x64.Build.0 = CloudRelease|x64
 		{9CF596CB-E0D2-493C-A6E9-42EBF481638F}.LocalDebug|x64.ActiveCfg = LocalDebug|x64

@@ -3,14 +3,14 @@
 //  Licensed under the MIT License (MIT). See License.txt in the repo root for license information.
 // ------------------------------------------------------------
 
+using Microsoft.Practices.Unity;
+using PartyCluster.WebService.Controllers;
+using System.Fabric;
+using System.Web.Http;
+using Unity.WebApi;
+
 namespace PartyCluster.WebService
 {
-    using System.Fabric;
-    using System.Web.Http;
-    using Microsoft.Practices.Unity;
-    using PartyCluster.WebService.Controllers;
-    using Unity.WebApi;
-
     public static class UnityConfig
     {
         public static void RegisterComponents(HttpConfiguration config, StatelessServiceContext serviceContext)
