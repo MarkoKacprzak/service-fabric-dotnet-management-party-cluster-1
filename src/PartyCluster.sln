@@ -43,9 +43,9 @@ Global
 		LocalDebug|x64 = LocalDebug|x64
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{80E45AEF-08D3-48DE-B9C3-694A6DF2E9C4}.CloudRelease|x64.ActiveCfg = CloudDebug|x64
-		{80E45AEF-08D3-48DE-B9C3-694A6DF2E9C4}.CloudRelease|x64.Build.0 = CloudDebug|x64
-		{80E45AEF-08D3-48DE-B9C3-694A6DF2E9C4}.CloudRelease|x64.Deploy.0 = CloudDebug|x64
+		{80E45AEF-08D3-48DE-B9C3-694A6DF2E9C4}.CloudRelease|x64.ActiveCfg = CloudRelease|x64
+		{80E45AEF-08D3-48DE-B9C3-694A6DF2E9C4}.CloudRelease|x64.Build.0 = CloudRelease|x64
+		{80E45AEF-08D3-48DE-B9C3-694A6DF2E9C4}.CloudRelease|x64.Deploy.0 = CloudRelease|x64
 		{80E45AEF-08D3-48DE-B9C3-694A6DF2E9C4}.LocalDebug|x64.ActiveCfg = CloudDebug|x64
 		{80E45AEF-08D3-48DE-B9C3-694A6DF2E9C4}.LocalDebug|x64.Build.0 = CloudDebug|x64
 		{80E45AEF-08D3-48DE-B9C3-694A6DF2E9C4}.LocalDebug|x64.Deploy.0 = CloudDebug|x64
